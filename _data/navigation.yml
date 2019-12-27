@@ -1,4 +1,6 @@
 header:
+sidebar:
+  nav: docs-en
   - title:      Docs
     url:        /docs/en/quick-start
   - title:      文档
@@ -30,5 +32,3 @@ docs-en:
         url:    /docs/en/configuration
       - title:  Navigation
         url:    /docs/en/navigation
-sidebar:
-  nav: docs-en
