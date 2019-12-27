@@ -1,4 +1,6 @@
 header:
+  - title: 文档
+  - title: 测试
   - titles:
       # @start locale config
       en      : &EN       Archive
@@ -48,3 +50,20 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /about.html
+  - title : git
+      url : https://github.com/Huxpro/huxpro.github.io/blob/master/README.zh.md#write-posts
+docs-en:
+  - title:      Start
+    children:
+      - title:  Quick Start
+        url:    /docs/en/quick-start
+      - title:  Structure
+        url:    /docs/en/structure
+  - title:      Customization
+    children:
+      - title:  Configuration
+        url:    /docs/en/configuration
+      - title:  Navigation
+        url:    /docs/en/navigation
+sidebar:
+  nav: docs-en
