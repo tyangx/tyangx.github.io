@@ -24,7 +24,10 @@ title   : tyangx的博客
 description: 只要开始就不晚
 ## => Language and Timezone
 ##############################
-lang: # the language of your site, default as "en"
+lang: zh-Hans
+lang: zh
+lang: zh-CN
+lang: zh-SG
 timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 
