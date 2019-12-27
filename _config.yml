@@ -223,3 +223,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+sidebar: true  #添加侧边栏
+sidebar-about-description: "简单的描述一下你自己"
